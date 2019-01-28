@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Testing updates in files after a PR is done"
 
 ---
 
